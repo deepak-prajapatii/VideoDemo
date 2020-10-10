@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#6200EE</color>
+    <color name="colorPrimaryDark">#3700B3</color>
+    <color name="colorAccent">#03DAC5</color>
+    <color name="background_color">#7DF12B</color>
+    <color name="border_color">#000000</color>
+    <color name="subscribe_button">#F30000</color>
+    <color name="button_text">#FFFFFF</color>
+</resources>
